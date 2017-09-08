@@ -1,0 +1,74 @@
+.container{
+    grid-template-columns: 170px 1fr 210px;
+    display:grid;
+}
+
+.content{
+    grid-template-rows: 200px 300px 1fr;
+    display:grid;
+    
+}
+
+.projects {
+    padding:20px;
+}
+
+.maintext {
+    padding-left: 20px;
+}
+
+.about, .contact {
+    background-color: #F6F6F6;
+     /* padding: -20px;  */
+     /* margin: -20px; */
+      padding-left: 40px; 
+      margin-left: -20px;
+      padding-bottom: 10px;
+      padding-top: 5px;
+}
+
+h2 {
+    color:purple;
+}
+
+img {
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+.firstname, .dot {
+    /* font-weight: bold; */
+    color:purple;
+}
+
+.name {
+    display:grid;
+    grid-template-columns: 50px 50px 1fr;
+}
+
+.nav {
+    display:grid;
+    grid-template-columns: 55px 70px 80px;
+}
+
+ textarea, input {
+    width:80%;
+} 
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+     padding-left: 20px; 
+}
+
+a {
+    color: black;
+}
+
+@media screen and (min-width: 600px) {
+
+    .projects {
+        display:grid;
+        grid-template-columns: 1fr 25px 1fr;
+    }
+}
