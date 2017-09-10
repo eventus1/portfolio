@@ -89,4 +89,8 @@ a:hover {
     h1 {
         font-size: 50px;
     }
+
+     textarea, input {
+    width:400px;
+} 
 }
