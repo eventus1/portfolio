@@ -17,9 +17,11 @@ My portfolio site I designed simply.  Because this is the first HTML/CSS project
  
 I built my site around the target audience of potential employers.  To do this I tried to think about what potential employers would use the site for.  Primarily it would be to find contact information and also to get insights into my persona, skills and capabilities. All of my decisions in the design of the site were based around checking off these criteria. 
  
--I included a contact form so that potential employers could get in contact with me easily. 
--I made the site simple and effective implying that I am an elegant and efficient programmer. 
--I added a list of skills and my resume so that employers would be able to tell if I was suitable for the roll they were looking for. 
+I included a contact form so that potential employers could get in contact with me easily. 
+
+I made the site simple and effective implying that I am an elegant and efficient programmer.
+ 
+I added a list of skills and my resume so that employers would be able to tell if I was suitable for the roll they were looking for. 
  
 # 2. Demonstrate the design decisions made 
  
