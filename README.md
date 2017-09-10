@@ -33,10 +33,10 @@ Another design decision was whether to use a single page or multi-page site.  I 
 
 Some of the usability heuristics I used included.
 
--When the user submits the contact form.  It takes them to another page so that they know their form has been submitted.  This is a visability of system status.
--The site is simple without unnecessary features that might confuse the user.  It talks the language of the user and the information that they need is organized in a way that is intuitive, bio before contact form for example.
--It uses black on white so easy for the user to read and people that might be colour blind will have no issue.
--To make it easier for the use I included a navigation bar at the top of the page.  Even though the user could just scroll down to the section of the page that they wanted to access the navigation bar was still included incase the user didn't realize that he could scroll down.
+-1.When the user submits the contact form.  It takes them to another page so that they know their form has been submitted.  This is a visability of system status.
+-2.The site is simple without unnecessary features that might confuse the user.  It talks the language of the user and the information that they need is organized in a way that is intuitive, bio before contact form for example.
+-3.It uses black on white so easy for the user to read and people that might be colour blind will have no issue.
+-4.To make it easier for the use I included a navigation bar at the top of the page.  Even though the user could just scroll down to the section of the page that they wanted to access the navigation bar was still included incase the user didn't realize that he could scroll down.
 
 # 4. Any wireframes
 
