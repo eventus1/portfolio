@@ -2,6 +2,13 @@
 # ChrisEdgar.com 
  
 My portfolio site I designed simply.  Because this is the first HTML/CSS project I didn't want to add lot's of advanced features just for the sake of it.  I focused on the cookie cutter basics but tried to do them as well possible.  When designing the site I focused on spacing and fonts. 
+
+# Inspiration
+
+Pinterest
+https://au.pinterest.com/eventus1305/website-inspirtation/
+Figma
+https://www.figma.com/file/Pb6bcmM15iiVwah73CUdHWZw/Untitled
  
 # Contents 
         -1. Demonstrate your understanding of your site's audience 
